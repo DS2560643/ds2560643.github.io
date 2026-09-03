@@ -1,6 +1,6 @@
 # About Me
 Hello! I am Developer.
-Write a short paragraph about your interests, skills, or goals.
+I really like math competitions as well as coding. I play the guitar.
 
 ## Navigation
 [Notebook](notebook.md)
